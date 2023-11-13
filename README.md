@@ -1,5 +1,5 @@
 # PyTorch-Models
-- Implement PyTorch models as seen in the below figures
+- Implementing PyTorch models as seen in the below figures
 
   
 
